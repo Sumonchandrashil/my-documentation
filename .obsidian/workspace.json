@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "12f941e16bc8b9a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8d49d2e337c1107",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1e466912be5480a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server/MYSQL DUMP DB Back.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a89ae536b5adbce4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b8f0d90aec95c6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0e3e9dc3882e357",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a480ce99b43f135",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mysql",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d73b1a89f426ffbb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5
+  },
+  "right": {
+    "id": "8980615c50f8cb33",
+    "type": "split",
+    "children": [
+      {
+        "id": "02c294cbdec61b83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54b93e70517b81de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Server/MYSQL DUMP DB Back.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d523c4fb5edd62b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Server/MYSQL DUMP DB Back.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e95dbe988fdc24b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f8e16237c43a86cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Server/MYSQL DUMP DB Back.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e1e466912be5480a",
+  "lastOpenFiles": [
+    "my-documentation",
+    "README.md",
+    "Credential/Access Token.md",
+    "STK/Current Stock.md",
+    "STK/Dividend Record.md",
+    "STK/Pasted image 20231107111232.png",
+    "STK/Pasted image 20231107111147.png",
+    "Screenshot_2.png",
+    "Pasted image 20231107111116.png",
+    "STK",
+    "LR/Unparenthesized  is deprecated Error.md",
+    "LX/Bash Scripting/8. Performing Arithmetic Operations in a Bash Script.md",
+    "LX/Bash Scripting/7. Creating and Using Environment Variables in Linux.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2023-11-06.md",
+    "Server/MYSQL DUMP DB Back.md",
+    "LX/Bash Scripting/5. Printing Linux Global Variables in a Bash Script.md",
+    "LX/Bash Scripting/1. Creating and Running a Bash Script.md",
+    "LX/Bash Scripting/0. Introduction Bash Scripting.md",
+    "LX/Bash Scripting/6. Using Linux Built-In Variables in a Bash Script.md",
+    "LX/Bash Scripting/4. Using Variables as Positional Arguments in a Bash Script.md",
+    "LX/Bash Scripting/3. Taking User Input and Using Variables in a Bash Script.md",
+    "LX/Bash Scripting/2. Creating and Using Variables in a Bash Script.md",
+    "Server/Host Laravel Project in Cpanel.md",
+    "LX/Bash Scripting",
+    "Credential/access_token.txt",
+    "Credential",
+    "LR",
+    "LX",
+    "Server/Hosting Front-End (Vue & React ) in cPanel.md",
+    "Server/Backend - Cpanel",
+    "Server"
+  ]
+}
